@@ -1,7 +1,9 @@
-import { Typography } from '@material-ui/core';
+import Navbar from '../components/Navbar';
 
 const HomePage = () => (
-  <Typography>Hey</Typography>
+  <>
+    <Navbar />
+  </>
 );
 
 export default HomePage;
