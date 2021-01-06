@@ -2,7 +2,7 @@ import Navbar from '@/components/Navbar';
 
 const HomePage = () => (
   <>
-    <Navbar navTitle="Personal" />
+    <Navbar navTitle="S/VER" />
   </>
 );
 
